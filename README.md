@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/CrisSherban">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&theme=dark" />
 </a>
+_NOTE: Top languages does not indicate my skill level, it's a github metric of languages I have the most on github repos_ 
