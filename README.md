@@ -2,7 +2,7 @@
 
 ### I'm an AI master student with interests in Computer Science, Engineering, Machine Learning, Neuroscience & much more...
 
-I graduated from University of Florcence :it: where I studied Computer Science & Engineering :computer:
+I graduated from University of Florence :it: where I studied Computer Science & Engineering :computer:
 
 <!--
 **CrisSherban/CrisSherban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
