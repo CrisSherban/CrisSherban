@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align:center">
-<a href="https://github.com/CrisSherban">
-<img alt="Cris' Github Stats" src="https://github-readme-stats.vercel.app/api?username=CrisSherban&show_icons=True&theme=dark" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/CrisSherban">
+    <img src="https://github-readme-stats.vercel.app/api?username=CrisSherban&show_icons=True&theme=dark" alt="Cris' Github Stats"/></a>
+</p>
 
-<div style="text-align:center">
-<a href="https://github.com/CrisSherban">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&theme=dark" /></a>   
-</div>
+<p align="center">
+  <a href="https://github.com/CrisSherban">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&theme=dark" alt="Cris' Github Stats"/></a>   
+</p>
 
 _NOTE: Top languages don't indicate my skill level, it's a github metric of languages I have the most on my github repos_ 
