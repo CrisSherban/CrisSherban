@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### I'm an AI master student with interests in Computer Science, Engineering, Machine Learning, Neuroscience & much more...
+
+I graduated from University of Florcence :it: where I studied Computer Science & Engineering :computer:
+
 <!--
 **CrisSherban/CrisSherban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +21,7 @@ Here are some ideas to get you started:
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CrisSherban&show_icons=True&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/CrisSherban">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&theme=dark" />
+</a>
