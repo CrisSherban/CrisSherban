@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CrisSherban&show_icons=True&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/CrisSherban">
+<img align="center" alt="Cris' Github Stats" src="https://github-readme-stats.vercel.app/api?username=CrisSherban&show_icons=True&theme=dark" /></a>
 
 <a href="https://github.com/CrisSherban">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&theme=dark" />
