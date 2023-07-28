@@ -33,7 +33,7 @@ I like fixing and building things.
  <td>
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&show_icons=True&theme=dark">
-   <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&show_icons=True&theme=dark"/></a>
+   <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&show_icons=True&theme=default" alt="Cris' Github Languages"/></a>
   </picture>
  </td>
 </tr>
@@ -51,9 +51,10 @@ I like fixing and building things.
 <table align="center">
 <tr>
  <td>
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cpac5km4w2f2us15fksrxncas&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
- 
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=cpac5km4w2f2us15fksrxncas&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">
+   <img aling="center" src="https://spotify-github-profile.vercel.app/api/view?uid=cpac5km4w2f2us15fksrxncas&cover_image=true&theme=default&show_offline=false&background_color='ffffff'&interchange=false&bar_color_cover=true", alt="Cris' Spotify"/></a>
+  </picture>
  </td>
  <td>
  Get bored with my music here on the left. <br>
