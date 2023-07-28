@@ -50,7 +50,7 @@ I like fixing and building things.
 
 <table align="center">
 <tr>
- <td align="center" width=35%>
+ <td align="center" width="35%">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=cpac5km4w2f2us15fksrxncas&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">
    <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=cpac5km4w2f2us15fksrxncas&cover_image=true&theme=default&show_offline=false&background_color='ffffff'&interchange=false&bar_color_cover=true" alt="Cris' Spotify"/>
