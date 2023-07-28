@@ -25,10 +25,16 @@ I like fixing and building things.
 </tr>
 <tr>
  <td>
-  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/CrisSherban?cardType=octocat&theme=github-dark&preferLogin=false" alt="Cris' Github Stats"/></a>
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/CrisSherban?cardType=octocat&theme=dark&preferLogin=false">
+   <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/CrisSherban?cardType=octocat&theme=default&preferLogin=false" alt="Cris' Github Stats"/></a>
+  </picture>
  </td>
  <td>
-  <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&show_icons=True&theme=dark"/></a>
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&show_icons=True&theme=dark">
+   <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&show_icons=True&theme=dark"/></a>
+  </picture>
  </td>
 </tr>
 <tr>
