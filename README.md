@@ -40,7 +40,7 @@ I like fixing and building things.
 <tr>
  <td align="center">
   Follow me: <img align="center" src="https://img.shields.io/github/followers/CrisSherban?label=Follow&style=social" />
-  Total stars (incl. orgs.): <img align="center" src="https://img.shields.io/github/stars/CrisSherban?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  Stars (no contribs.): <img align="center" src="https://img.shields.io/github/stars/CrisSherban?affiliations=OWNER%2CCOLLABORATOR&style=social" />
  </td>
  <td align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=CrisSherban"/> <sub>since 26/8/22
