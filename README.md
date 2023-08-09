@@ -18,7 +18,7 @@ I like fixing and building things.
 * Biology
  
  
-## Some boring GitHub Stats:
+## Some GitHub Stats:
 <table align="center">
 <tr>
   <th>GitHub stats</th>
@@ -49,6 +49,7 @@ I like fixing and building things.
 </tr>
 </table> 
 
+## Some trivia:
 <table align="center">
 <tr>
  <td align="center" width="35%">
@@ -62,11 +63,9 @@ I like fixing and building things.
  Pay attention; sometimes, it might be extremely good. <br>
  Some other times... I hope it's not "some other times" :D! <br><br>
   
- Some personal trivia:<br>
  I'm usually a night owl. <br>
  I once sequenced my mitochondrial DNA. <br>
- I like everything that moves on 2 wheels.<br>
- (I guess life it's a matter of symmetry and equilibrium, like NNs)
+ I like everything that moves on two wheels. <br>
  
  </td>
 </tr>
