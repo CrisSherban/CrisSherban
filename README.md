@@ -3,7 +3,8 @@ I'm Cris, nice to meet you.
 I like fixing and building things.
 
 ## Short history of me:
-* Currently doing research in deep learning for antibodies @Bayer in Germany :de:
+* Currently about to start a PhD
+* 1+ year in researching at the intersection of deep learning and biology @Bayer in Germany :de:
 * Ex-IBMer in Data Science and Engineering in Belgium :belgium:
 * Graduated from University of Bologna :it: - MSc in Artificial Intelligence
 * Graduated from University of Florence :it: - BSc in Computer Science & Engineering :computer:
