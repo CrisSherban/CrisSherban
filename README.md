@@ -31,46 +31,10 @@ I like fixing and building things.
   </a>  
  </td>
  <td>
-  <a href="https://github.com/CrisSherban/KerSmoSVM">
-   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=KerSmoSVM&theme=dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=KerSmoSVM&theme=light alt="KerSmoSVM"/>
-   </picture>
-  </a>
- </td>
-</tr>
-<tr>
- <td>
-  <a href="https://github.com/CrisSherban/Pollen">
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=Pollen&theme=dark">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=Pollen&theme=light alt="Pollen"/>
-    </picture>
-   </a>  
- </td>
- <td>
-  <a href="https://github.com/VLSI-combinatorial-problem/VLSI-project">
-   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VLSI-combinatorial-problem&repo=VLSI-project&theme=dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VLSI-combinatorial-problem&repo=VLSI-project&theme=light alt="VLSI-project"/>
-   </picture>
-  </a>
- </td>
-</tr>
-<tr>
- <td>
   <a href="https://github.com/QuadCtrl/quad-ctrl">
    <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl&theme=dark">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl&theme=light alt="QuadCTRL"/>
-   </picture>
-  </a>  
- </td>
- <td>
-  <a href="https://github.com/NoLogicPlease/Visionizer">
-   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=NoLogicPlease&repo=Visionizer&theme=dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoLogicPlease&repo=Visionizer&theme=light alt="Visionizer"/>
    </picture>
   </a>  
  </td>
@@ -79,7 +43,42 @@ I like fixing and building things.
 
 
 <!---
-ProgressBar Card
+Pins:
+
+  <a href="https://github.com/CrisSherban/KerSmoSVM">
+   <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=KerSmoSVM&theme=dark">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=KerSmoSVM&theme=light alt="KerSmoSVM"/>
+   </picture>
+  </a>
+
+  <a href="https://github.com/CrisSherban/Pollen">
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=Pollen&theme=dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=Pollen&theme=light alt="Pollen"/>
+    </picture>
+  </a>  
+   
+  <a href="https://github.com/VLSI-combinatorial-problem/VLSI-project">
+   <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VLSI-combinatorial-problem&repo=VLSI-project&theme=dark">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VLSI-combinatorial-problem&repo=VLSI-project&theme=light alt="VLSI-project"/>
+   </picture>
+  </a>
+ 
+  <a href="https://github.com/QuadCtrl/quad-ctrl">
+   <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl&theme=dark">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl&theme=light alt="QuadCTRL"/>
+   </picture>
+  </a>  
+
+  <a href="https://github.com/NoLogicPlease/Visionizer">
+   <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=NoLogicPlease&repo=Visionizer&theme=dark">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoLogicPlease&repo=Visionizer&theme=light alt="Visionizer"/>
+   </picture>
+  </a>  
 
   <a href="https://github.com/CrisSherban/ProgressBar">
    <picture>
@@ -87,7 +86,6 @@ ProgressBar Card
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=ProgressBar&theme=light alt="ProgressBar"/>
    </picture>
   </a>  
-  
 --->
 
 ## Short history of me:
