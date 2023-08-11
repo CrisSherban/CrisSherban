@@ -86,7 +86,7 @@ I like fixing and building things.
   Follow me: <img align="center" src="https://img.shields.io/github/followers/CrisSherban?label=Follow&style=social" />
   Stars (no contribs.): <img align="center" src="https://img.shields.io/github/stars/CrisSherban?affiliations=OWNER%2CCOLLABORATOR&style=social" />
  </td>
- <td align="center">
+ <td align="center" width="45%">
   <img align="center" src="https://komarev.com/ghpvc/?username=CrisSherban"/> <sub>since 26/8/22
  </td>
 </tr>
@@ -95,21 +95,21 @@ I like fixing and building things.
 ## Some trivia:
 <table align="center">
 <tr>
- <td align="center" width="35%">
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=cpac5km4w2f2us15fksrxncas&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">
-   <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=cpac5km4w2f2us15fksrxncas&cover_image=true&theme=default&show_offline=false&background_color='ffffff'&interchange=false&bar_color_cover=true" alt="Cris' Spotify"/>
-  </div>
- </td>
  <td>
- Get bored with my music here on the left. <br>
- Pay attention; sometimes, it might be extremely good. <br>
+ Get bored with my music here on the right. <br>
+ Sometimes, it might be extremely good. <br>
  Some other times... I hope it's not "some other times" :D! <br><br>
   
  I'm usually a night owl. <br>
  I once sequenced my mitochondrial DNA. <br>
  I like everything that moves on two wheels. <br>
  
+ </td>
+ <td align="center" width="45%">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=cpac5km4w2f2us15fksrxncas&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" />
+   <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=cpac5km4w2f2us15fksrxncas&cover_image=true&theme=default&show_offline=false&background_color='ffffff'&interchange=false&bar_color_cover=true" alt="Cris' Spotify" />
+  </div>
  </td>
 </tr>
 </table> 
