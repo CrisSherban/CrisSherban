@@ -20,8 +20,6 @@ I like fixing and building things.
     </picture>
    </a>
  </td>
-</tr>
-<tr>
  <td>
   <a href="https://github.com/bayer-science-for-a-better-life/topefind-public">
    <picture>
@@ -30,6 +28,8 @@ I like fixing and building things.
    </picture>
   </a>  
  </td>
+</tr>
+<tr>
  <td>
   <a href="https://github.com/CrisSherban/KerSmoSVM">
    <picture>
@@ -38,8 +38,6 @@ I like fixing and building things.
    </picture>
   </a>
  </td>
-</tr>
-<tr>
  <td>
   <a href="https://github.com/CrisSherban/Pollen">
    <picture>
@@ -71,6 +69,14 @@ I like fixing and building things.
    <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=NoLogicPlease&repo=Visionizer&theme=dark">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoLogicPlease&repo=Visionizer&theme=light alt="Visionizer"/>
+   </picture>
+  </a>  
+ </td>
+ <td>
+  <a href="https://github.com/CrisSherban/ProgressBar">
+   <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=ProgressBar&theme=dark">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=ProgressBar&theme=light alt="ProgressBar"/>
    </picture>
   </a>  
  </td>
