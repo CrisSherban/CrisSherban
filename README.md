@@ -7,16 +7,18 @@ I like fixing and building things.
  <td>
   <a href="https://github.com/CrisSherban/BrainPad">
    <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad&theme=dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad&theme=light)](https://github.com/CrisSherban/BrainPad" alt="BrainPad"/>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad&theme=dark" />
+   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad alt="BrainPad" />
    </picture>
   </a>
  </td>
  <td>
    <a href="https://github.com/Basket-Analytics/BasketTracking">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BasketTracking&theme=dark">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BasketTracking&theme=light alt="BasketTracking"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BasketTracking&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BasketTracking" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BasketTracking alt="BasketTracking"/>
     </picture>
    </a>
  </td>
@@ -25,8 +27,9 @@ I like fixing and building things.
  <td>
   <a href="https://github.com/bayer-science-for-a-better-life/topefind-public">
    <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bayer-science-for-a-better-life&repo=topefind-public&theme=dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bayer-science-for-a-better-life&repo=topefind-public&theme=light alt="Topefind"/>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bayer-science-for-a-better-life&repo=topefind-public&theme=dark" />
+   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bayer-science-for-a-better-life&repo=topefind-public" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bayer-science-for-a-better-life&repo=topefind-public alt="Topefind" />
    </picture>
   </a>  
  </td>
@@ -34,59 +37,13 @@ I like fixing and building things.
   <a href="https://github.com/QuadCtrl/quad-ctrl">
    <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl&theme=dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl&theme=light alt="QuadCTRL"/>
+   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl alt="QuadCTRL"/>
    </picture>
   </a>  
  </td>
 </tr>
 </table>
-
-
-<!---
-Pins:
-
-  <a href="https://github.com/CrisSherban/KerSmoSVM">
-   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=KerSmoSVM&theme=dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=KerSmoSVM&theme=light alt="KerSmoSVM"/>
-   </picture>
-  </a>
-
-  <a href="https://github.com/CrisSherban/Pollen">
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=Pollen&theme=dark">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=Pollen&theme=light alt="Pollen"/>
-    </picture>
-  </a>  
-   
-  <a href="https://github.com/VLSI-combinatorial-problem/VLSI-project">
-   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=VLSI-combinatorial-problem&repo=VLSI-project&theme=dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VLSI-combinatorial-problem&repo=VLSI-project&theme=light alt="VLSI-project"/>
-   </picture>
-  </a>
- 
-  <a href="https://github.com/QuadCtrl/quad-ctrl">
-   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl&theme=dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl&theme=light alt="QuadCTRL"/>
-   </picture>
-  </a>  
-
-  <a href="https://github.com/NoLogicPlease/Visionizer">
-   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=NoLogicPlease&repo=Visionizer&theme=dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoLogicPlease&repo=Visionizer&theme=light alt="Visionizer"/>
-   </picture>
-  </a>  
-
-  <a href="https://github.com/CrisSherban/ProgressBar">
-   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=ProgressBar&theme=dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=ProgressBar&theme=light alt="ProgressBar"/>
-   </picture>
-  </a>  
---->
 
 ## Short history of me:
 * Currently about to start a PhD
