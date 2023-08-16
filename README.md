@@ -2,6 +2,7 @@
 I'm Cris. Nice to meet you!  
 I like fixing and building things.
 
+Take a quick look at some projects I really enjoyed developing:
 <table align="center">
 <tr>
  <td>
@@ -46,8 +47,8 @@ I like fixing and building things.
 </table>
 
 ## Short history of me:
-* Currently about to start a PhD
-* 1+ year in research at the intersection of deep learning and biology @Bayer in Germany :de:
+* Currently about to start a PhD (drop an email to convince me to do so or not to!)
+* 1+ year in research at the intersection of Deep Learning and Biology @Bayer in Germany :de:
 * Ex-IBMer in Data Science and Engineering in Belgium :belgium:
 * Graduated from University of Bologna :it: - MSc in Artificial Intelligence
 * Graduated from University of Florence :it: - BSc in Computer Science & Engineering :computer:
