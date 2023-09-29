@@ -1,5 +1,5 @@
-# Hello Everybody! <img src="wave_hand.gif" width="27"/>
-I'm Cris. Nice to meet you!  
+# Hello Everybody! 
+I'm Cris. Nice to meet you! <img src="https://github.com/CrisSherban/CrisSherban/blob/main/wave_hand.gif?raw=true" width="20px"/>  
 I like fixing and building things.
 
 Take a quick look at some projects I really enjoyed developing:
