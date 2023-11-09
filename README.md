@@ -47,7 +47,7 @@ Take a quick look at some projects I really enjoyed developing:
 </table>
 
 ## Short history of me:
-* Currently about to start a PhD (drop an email to convince me to do so or not to!)
+* Currently doing a PhD at University College London :uk: in Computer Science
 * 1+ year in research at the intersection of Deep Learning and Biology @Bayer in Germany :de:
 * Ex-IBMer in Data Science and Engineering in Belgium :belgium:
 * Graduated from University of Bologna :it: - MSc in Artificial Intelligence
