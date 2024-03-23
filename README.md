@@ -114,3 +114,5 @@ Take a quick look at some projects I really enjoyed developing:
  </td>
 </tr>
 </table> 
+
+$$ S = k \ln W $$
