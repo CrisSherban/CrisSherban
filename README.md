@@ -8,8 +8,8 @@ Take a quick look at some projects I really enjoyed developing:
  <td>
   <a href="https://github.com/CrisSherban/BrainPad">
    <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad&theme=dark" />
-   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad" />
+   <source media="(prefers-color-scheme: dark)" srcset="github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad&theme=dark" />
+   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad alt="BrainPad" />
    </picture>
   </a>
