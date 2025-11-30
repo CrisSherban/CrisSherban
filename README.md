@@ -8,18 +8,18 @@ Take a quick look at some projects I really enjoyed developing:
  <td>
   <a href="https://github.com/CrisSherban/BrainPad">
    <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad&theme=dark" />
-   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad alt="BrainPad" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad&theme=dark"/>
+   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad"/>
+   <img align="center" src="https://github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=CrisSherban&repo=BrainPad alt="BrainPad"/>
    </picture>
   </a>
  </td>
  <td>
    <a href="https://github.com/Basket-Analytics/BasketTracking">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BasketTracking&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BasketTracking" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrisSherban&repo=BasketTracking alt="BasketTracking"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=CrisSherban&repo=BasketTracking&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=CrisSherban&repo=BasketTracking" />
+    <img align="center" src="https://github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=CrisSherban&repo=BasketTracking alt="BasketTracking"/>
     </picture>
    </a>
  </td>
@@ -28,18 +28,18 @@ Take a quick look at some projects I really enjoyed developing:
  <td>
   <a href="https://github.com/bayer-science-for-a-better-life/topefind-public">
    <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bayer-science-for-a-better-life&repo=topefind-public&theme=dark" />
-   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bayer-science-for-a-better-life&repo=topefind-public" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bayer-science-for-a-better-life&repo=topefind-public alt="Topefind" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=bayer-science-for-a-better-life&repo=topefind-public&theme=dark" />
+   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=bayer-science-for-a-better-life&repo=topefind-public" />
+   <img align="center" src="https://github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=bayer-science-for-a-better-life&repo=topefind-public alt="Topefind" />
    </picture>
   </a>  
  </td>
  <td>
   <a href="https://github.com/QuadCtrl/quad-ctrl">
    <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl&theme=dark">
-   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl alt="QuadCTRL"/>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl&theme=dark">
+   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl" />
+   <img align="center" src="https://github-readme-stats-eight-nu-89.vercel.app/api/pin/?username=QuadCtrl&repo=quad-ctrl alt="QuadCTRL"/>
    </picture>
   </a>  
  </td>
@@ -77,8 +77,8 @@ Take a quick look at some projects I really enjoyed developing:
  </td>
  <td>
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&show_icons=True&theme=dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&show_icons=True&theme=default" alt="Cris' Github Languages"/>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-nu-89.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&show_icons=True&theme=dark">
+   <img align="center" src="https://github-readme-stats-eight-nu-89.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&show_icons=True&theme=default" alt="Cris' Github Languages"/>
   </picture>
  </td>
 </tr>
