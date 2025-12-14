@@ -115,4 +115,5 @@ Take a quick look at some projects I really enjoyed developing:
 </tr>
 </table> 
 
-$$ S = k \ln W $$
+Time isn’t actually moving forward—we’re just statistically surfing toward messier states and calling it a schedule. $$S = k_B \ln \Omega$$.
+
