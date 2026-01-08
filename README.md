@@ -69,13 +69,13 @@ Take a quick look at some projects I really enjoyed developing:
   <th>Most used languages</th>
 </tr>
 <tr>
- <td>
+ <td align="center">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/CrisSherban?cardType=octocat&theme=dark&preferLogin=false">
    <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/CrisSherban?cardType=octocat&theme=default&preferLogin=false" alt="Cris' Github Stats"/>
   </picture>
  </td>
- <td>
+ <td align="center">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-nu-89.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&show_icons=True&theme=dark">
    <img align="center" src="https://github-readme-stats-eight-nu-89.vercel.app/api/top-langs/?username=CrisSherban&layout=compact&show_icons=True&theme=default" alt="Cris' Github Languages"/>
